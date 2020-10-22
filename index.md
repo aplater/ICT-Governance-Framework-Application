@@ -1,6 +1,10 @@
 ```markdown
-###CBA Governance Framework Application
-
+CBA Governance Framework Application
+- Build on Workflows and Approval for Governance Adjustments
+- Build on Blueprint assignement and updates
+- Ussage of Secure Score termonology
+- Graph Integration 
+- End User Adoption and End User Compliance
 
 ```
 ## Welcome to CBA Consult ICT Governance Framework Application  
